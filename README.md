@@ -1,1 +1,1 @@
-# Week 8 - Deep Neural Networks Part 2
+# Week 8 - Multilayer Neural Network Part 2
