@@ -1,1 +1,1 @@
-# Week-8
+# Week 8 - Deep Nueral Networks Part 2
